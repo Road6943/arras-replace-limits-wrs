@@ -1,0 +1,2 @@
+# arras-replace-limits-wrs
+A player named Limit was banned from the wr archive and had his records wiped from the spreadsheet as a result. This script searches the wr sheet for all of Limit's current wr's, and then searches the Oldest Arras Records sheet (a different 4000 row spreadsheet where every records submitted to the wra since mid-July 2018 is archived) in order to find every previous submission for every record that Limit used to hold, to help replace Limit's records with the next highest submission for that record.
